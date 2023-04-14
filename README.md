@@ -1,3 +1,7 @@
-# app_login
+# Proyecto Final Mobile Developmen
 
-A new Flutter project.
+Grupo 
+Justin Caamaño
+Manuel Mañon
+Carlos Romero
+Abel Garcia
