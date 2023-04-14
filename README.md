@@ -1,6 +1,6 @@
-# Proyecto Final Mobile Developmen
+# Proyecto Final Mobile Development
 
-Grupo :
+Grupo:
 
 Justin Caamaño.
 Manuel Mañon.
